@@ -1,0 +1,10 @@
+{
+  "culture": "en",
+  "texts": {
+    "Permission:Group": "Abp Auth Demo",
+    "Permission:Items": "Items",
+    "Permission:Items.Create": "Create item",
+    "Permission:Items.Edit": "Edit item",
+    "Permission:Items.Delete": "Delete item"
+  }
+}
